@@ -1,0 +1,22 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "Single page todos application",
+  "main": "app.js",
+  "scripts": {
+    "start": "Node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9",
+    "morgan": "^1.9.1"
+  }
+}
